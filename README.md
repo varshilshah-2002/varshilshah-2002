@@ -1,10 +1,23 @@
-<h1 align="center">Hey, I'm Varshil Shah👋</h1>
-<h3 align="center">I am Varshil Shah, 3rd year Computer and Communication student at Manipal Institute Of Technology. Self motivated and open to learning. Passionate about coding and problem solving, avid interest in freelancing and Web Development!</h3>
+<h1 align="center">Hey, I'm Varshil Shah 👋</h1>
+
+<h3 align="center">Backend & DevOps-Focused Software Engineer | Python | Go | MySQL | CI/CD | AWS | React JS | Javascript | SonarQube | Azure | Google Analytics</h3>
+
+---
+
+🎓 I’m a Computer and Communication Engineering graduate from Manipal Institute of Technology, currently working as a Software Engineer at Sandisk.
+
+💻 Passionate about building scalable backend systems, automating workflows, and solving real-world problems using Python, Go, and SQL.
+
+🚀 I've implemented end-to-end CI/CD pipelines, REST APIs, and real-time dashboards. I love diving deep into system design, performance optimization, and infrastructure tools like Docker and AWS.
+
+📦 Currently working on a DevOps-friendly bug tracker (Jira-lite clone) using Python, Golang, MySQL, Jenkins, and AWS.
+
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varshilshah-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshilshah-2002" height="30" width="40" /></a>
-<a href="https://instagram.com/varshil6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varshil6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
