@@ -1,67 +1,80 @@
-<h1 align="center">Hey, I'm Varshil Shah 👋</h1>
-<h3 align="center">Backend & DevOps-Focused Software Engineer | Python | Go | MySQL | CI/CD | AWS</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/varshilshah-2002/varshilshah-2002/master/assets/banner.png" alt="Banner" />
+</p>
 
----
+<h1 align="center">Hey, I’m Varshil Shah 👋</h1>
+<h3 align="center">Building Resilient Backend Systems & Empowering Dev Teams through Automation</h3>
 
-🎓 I’m a Computer & Communication Engineering graduate from Manipal Institute of Technology, now building scalable backend systems at Sandisk.
-
-💻 Passionate about designing and automating microservices, REST APIs, and CI/CD pipelines with Python, Go, and cloud native tooling.
-
-🚀 Currently crafting a DevOps-friendly bug tracker (Jira-lite clone) using FastAPI, Golang, MySQL, Jenkins, Docker, and AWS.
-
----
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/varshilshah-2002" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<p align="center">
+  <a href="https://linkedin.com/in/varshilshah-2002" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:varshil.220202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-✉️-red" alt="Email" />
+  </a>
+  <a href="https://github.com/varshilshah-2002" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@varshilshah-181717?logo=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🧰 Tech Stack & Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+## 👨‍💻 About Me
+- 🎓 B.Tech in Computer & Communication Engineering from Manipal Institute of Technology  
+- 💼 Software Engineer @ Western Digital, specializing in backend microservices, REST APIs, and CI/CD  
+- 🔭 Currently building a DevOps-friendly Bug Tracker (Jira-lite clone) with FastAPI, Go, MySQL, Jenkins & AWS  
+- 🌱 Learning advanced distributed tracing with OpenTelemetry and service meshes (Istio)  
+- ⚡ Fun fact: I once automated my home lights with a Raspberry Pi and Python!
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/amazonwebservices-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" />
+</p>
+
+---
+
+## 🔭 I’m Currently Working On
+- **DevOps-Friendly Bug Tracker**: End-to-end microservices app with FastAPI, Go & MySQL, Docker Compose orchestration, Jenkins CI/CD, AWS ECS/Terraform  
+- **Open-Source Contributions**: Improving test coverage on key Python libraries  
+
+---
+
+## 🌱 I’m Learning
+- Distributed tracing with **OpenTelemetry**  
+- Service mesh patterns with **Istio**  
+- Advanced data partitioning strategies in **MySQL**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshilshah-2002&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshilshah-2002&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 How to Reach Me
+<p align="center">
+  <a href="mailto:varshil.220202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-✉️-red" alt="Email" />
   </a>
-  <a href="https://golang.org" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
-  </a>
-  <a href="https://www.djangoproject.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-  </a>
-  <a href="https://www.terraform.io" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://github.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <a href="https://linkedin.com/in/varshilshah-2002" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
